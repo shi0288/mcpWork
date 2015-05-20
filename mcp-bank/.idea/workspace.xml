@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630c3b79-bb88-4968-a955-816282ac5a55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\lib\Union.jar" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\about_jg.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\acdetail.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\acount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\active.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\bbankc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\bid.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\bmobile.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_4.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_6.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_7.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_8.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_z1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_z2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_z3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_zu2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\c11x5_zu3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\caiyuan.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\caiyuan2.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\chongzhi.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\cjkzhifu.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\active.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\android.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\common.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\idangerous.swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\ios.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\ios7.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\ipad - ¸±±¾.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\ipad.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\css\start.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\czadd.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\czdingzhi.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\dlt.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fangan.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fanganjc - ¸±±¾.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fanganjc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fanganzh.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fc3d.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fc3d_zu3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\fc3d_zu6.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\findpass.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\gchelp.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\getmoney.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_bind.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_bt.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_cz.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_dj.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_dt.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_gc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_hm.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_js.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_jy.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_tx.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_tz.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_wj.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_zc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\help_zh.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\hfzhifu.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\009.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\123455.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\a_bnav_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\a_bnav_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\a_bnav_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\a_bnav_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\a_bnav_5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\aboutus1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\aboutus2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\aboutus_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_check_org.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_checked_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_ico_xiaoxi.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_ico_xiaoxi2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_jc_close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_jiantou_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\active_xuanhao_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\add20140220.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\add_bbtten.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\adv_cg_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\aminrent_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\aminrent_btn_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\anniu_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\anniu_org.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ball_blue.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ball_gray.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ball_red.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bangshangyouming.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bangshangyouming_ico.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\big_gou_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\big_gou_green2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\biz_news_column_delete_checked.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\biz_news_column_delete_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\biz_news_column_drag_normal.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\biz_news_column_subscribe_add.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\biz_news_column_subscribe_cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\blbg11.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bnav_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bnav_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bnav_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bnav_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bnav_5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bolang.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bolang2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bolang_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bottom_line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\btn_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\btn_light.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\btn_lxkf.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\bttttn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\cad_15.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\cad_16.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\check_org.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\checked_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\closesss.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\cmbc_bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\czdz_jia.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\czdz_jian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\del_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\del_red.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\desk_bg_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\dl_wxz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\dl_xz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\down_black.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\down_wite.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\down_yellow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\duihao_wite.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\fenge_line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\gerenziliao.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\gogo_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\gogogo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\good_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\green_footer_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\green_loudou.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\green_top_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\grey_left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\grey_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\guanggao_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\guanggao_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\header_toleft.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\header_toleft_a.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\hearder_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\hearder_bg_02.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\huodong_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\huodong_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\huodong_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\iPhone4btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_11xuan5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_11xuan5_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_3d.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_add.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_bao.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dan.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dan3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dan_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dianhua.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dianhua2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_diqiuq.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_dlt.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_gwc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_head.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_huiren.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jclq.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jczq.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jczq_gery.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jiang.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jiang_s.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_jqc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_kakaz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_kaz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_meiyuan.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_pl3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_pl5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_qian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_qlc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_qxc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_ren.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_rmb.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_sfc.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_shoujiz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_ssq.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_suo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_suo1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_tel_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_user_6.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_wangluoshang.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_xiaoxi.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_xiaoxi2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_yaoshi.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_yhk.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_yinlianz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_yl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_zfb.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ico_zhifubaoz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_10.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_11.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_12.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_13.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_14.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_15.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_16.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_6.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_7.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_8.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\icoy_9.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_del.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_line_big.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_sele_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jc_tijiao.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jia_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jia_black.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jia_wite.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiajiajiajia.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jian_black.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiangjintixian.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_11.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_22.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_left2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_left_green.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_left_green2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jiantou_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jjk_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\jjk_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\lanqiu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\lilili.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\liti_line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\liti_line2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\logo2 (2).png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\logo_0.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\loudou.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\mingrent_top_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrent_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrent_btn_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrent_btn_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrentang_j_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrentang_j_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrentang_j_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\minrentang_j_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\more1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\msg_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\nav_caiyuan_bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\nocaijin.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\note_no.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\page_alert_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\page_alert_glow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\qian_top.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\qq_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\reflash.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\s_blue_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\s_red_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\scha1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sclock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sdot.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sdot_now.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sel_down.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sel_tzz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sel_zf.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sgou1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sina_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sit_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sit_02.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sit_03.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sjbd.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sjiantou_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sjiantou_right_org.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\sled_down_03.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\smrz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\start_bg_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\start_yy.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\stip.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\stip2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\stip3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\the_left.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\the_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\top_line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\top_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\tz_bg_red.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ump_icon_right.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\ump_icon_wrong.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\up_black.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\up_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\weixi0090_03.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\wen2_03.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\wite_za_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xbtn_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xgmm.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xiangyun.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xiaoma.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xiaoxi_01.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xuanhao_btn.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xuxian_chuizhi.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xuxian_line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\xuxian_sline.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\yhkbd.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\yinying_bg_wite.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\yonghudenglu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zc_top_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zc_wxz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zc_xz.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhanghumingxi.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhaohuimima.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhongjiang_adv.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhongjiang_adv.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhongjiang_adv1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zhongjiang_adv1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_2.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_4.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_5.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_6.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_7.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zixun_ico_8.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\img\zuqiu.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\index.appcache" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\information.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\innerbbank.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\innerbid.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\innerlogin.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jczq.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jczq_ht.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jczq_rf.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jczq_rf.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jczqsucess.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jjztzj.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\jqc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\absult.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\base.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\c11x5z2z3.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\c11x5zu2zu3.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\common.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\commontz.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\contect.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\contect11x5.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\fc3d_zu6.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\hjczq.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\idangerous.swiper-2.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\iphone.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jc.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jczq.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jczq_ht.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jczqcontect.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jq.mobi.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jq.ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jqc.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jquery-1.8.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\lottery.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\lottery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\mcn.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\pcasunzip.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\pl.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\pl3.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\pl3_zu6.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\sfc.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\zuhe.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\js\zuhe11x5z1.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\login.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\main.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\message.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\more.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\notify.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\pl3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\pl3_zu.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\pl3_zu3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\pl3_zu6.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\pl5.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\qlc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\qxc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\repass.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\result.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\resultdet.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\resultmit.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\sfc.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\shezhi.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\sign.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\sjkzhifu.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\ssq.jsp" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\success.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\success_cz.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\success_tx.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\test.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\tixian.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\usedata.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\yhfwagreement.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\ylzhifu.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\workspace\mcp-bank\src\main\webapp\hxb\zhifu.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/CmbcConstant.java" afterPath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/CmbcConstant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/HttpClientWrapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/HttpClientWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/LotteryService.java" afterPath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/LotteryService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/MD5.java" afterPath="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/MD5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/acdetail.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/acdetail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/acount.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/acount.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/bid.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/bid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/chongzhi.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/chongzhi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/common.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/commontz.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/commontz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/contect.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/contect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/contect11x5.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/contect11x5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/czdingzhi.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/czdingzhi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/dlt.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/dlt.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/fangan.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/fangan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/fanganjc.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/fanganjc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/fanganzh.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/fanganzh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/gchelp.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/gchelp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/getmoney.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/getmoney.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/jczq.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/jczq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq_ht.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq_ht.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq_rf.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/jczq_rf.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/jczqcontect.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/jczqcontect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/jczqsucess.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/jczqsucess.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/jjztzj.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/jjztzj.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/include/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/include/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/main.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/message.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/message.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mm.json" afterPath="$PROJECT_DIR$/mm.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/more.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/more.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/notify.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/notify.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/pl5.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/pl5.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/js/platform.js" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/js/platform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/qlc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/qlc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/qxc.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/qxc.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/css/reset.css" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/result.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/resultdet.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/resultdet.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/resultmit.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/resultmit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/shezhi.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/shezhi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/ssq.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/ssq.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/css/start.css" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/css/start.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/success.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/success_cz.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/success_cz.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/success_tx.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/success_tx.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/tixian.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/tixian.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/usedata.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/usedata.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/yhfwagreement.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/yhfwagreement.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/cmbc/ylzhifu.html" afterPath="$PROJECT_DIR$/src/main/webapp/cmbc/ylzhifu.html" />
+    </list>
+    <ignored path="mcp-bank.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mcp-bank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LotteryService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/LotteryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="65" column="49" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientWrapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/HttpClientWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5862069">
+              <caret line="203" column="52" selection-start-line="203" selection-start-column="52" selection-end-line="203" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contect.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/cmbc/js/contect.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="526" column="41" selection-start-line="526" selection-start-column="41" selection-end-line="526" selection-end-column="41" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/util/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="mcp-bank" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="mcp-bank" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyWebNorConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyToLib" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="copyWeb" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1431164112059" />
+        <entry key="$PROJECT_DIR$/../o2o_java" value="1429685809156" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MODULE_DIR$/lib/asm-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/bcprov-jdk16-1.46.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-codec-1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-collections-3.2.1.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-logging-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-net-3.1.jar" />
+                            <option value="$MODULE_DIR$/lib/commons-pool-1.6.jar" />
+                            <option value="$MODULE_DIR$/lib/dom4j-1.6.1.jar" />
+                            <option value="$MODULE_DIR$/lib/hamcrest-core-1.3.jar" />
+                            <option value="$MODULE_DIR$/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+                            <option value="$MODULE_DIR$/lib/httpclient-4.3-beta2.jar" />
+                            <option value="$MODULE_DIR$/lib/httpcore-4.3-beta2.jar" />
+                            <option value="$MODULE_DIR$/lib/jackson-core-asl-1.9.13.jar" />
+                            <option value="$MODULE_DIR$/lib/jackson-mapper-asl-1.9.13.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.annotation.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.ejb.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.jms.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.persistence.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.resource.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.servlet.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.servlet.jsp.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.servlet.jsp.jstl.jar" />
+                            <option value="$MODULE_DIR$/lib/javax.transaction.jar" />
+                            <option value="$MODULE_DIR$/lib/jcl-over-slf4j-1.7.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jdom.jar" />
+                            <option value="$MODULE_DIR$/lib/jdom2-2.0.5.jar" />
+                            <option value="$MODULE_DIR$/lib/jedis-2.1.0.jar" />
+                            <option value="$MODULE_DIR$/lib/jersey-core-1.8.jar" />
+                            <option value="$MODULE_DIR$/lib/jersey-server-1.8.jar" />
+                            <option value="$MODULE_DIR$/lib/jettison-1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/jsch-0.1.50.jar" />
+                            <option value="$MODULE_DIR$/lib/jsr311-api-1.1.1.jar" />
+                            <option value="$MODULE_DIR$/lib/junit-4.11.jar" />
+                            <option value="$MODULE_DIR$/lib/log4j-1.2.16.jar" />
+                            <option value="$MODULE_DIR$/lib/mcp-bank-0.0.1-SNAPSHOT.jar" />
+                            <option value="$MODULE_DIR$/lib/mcp-core-util-0.0.3.jar" />
+                            <option value="$MODULE_DIR$/lib/mcp-order-core-0.0.3.jar" />
+                            <option value="$MODULE_DIR$/lib/mcp-order-inter-0.0.3.jar" />
+                            <option value="$MODULE_DIR$/lib/mcp-order-model-0.0.3.jar" />
+                            <option value="$MODULE_DIR$/lib/mongo-2.10.1.jar" />
+                            <option value="$MODULE_DIR$/lib/scheme-core-0.0.3.jar" />
+                            <option value="$MODULE_DIR$/lib/servlet-api-2.4.jar" />
+                            <option value="$MODULE_DIR$/lib/servlet-api-2.5.jar" />
+                            <option value="$MODULE_DIR$/lib/slf4j-api-1.7.1.jar" />
+                            <option value="$MODULE_DIR$/lib/slf4j-log4j12-1.6.1.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-beans-3.2.3.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-core-3.2.3.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/spring-data-commons-1.6.4.RELEASE.jar" />
+                            <option value="$MODULE_DIR$/lib/stax-api-1.0.1.jar" />
+                            <option value="$MODULE_DIR$/lib/Union.jar" />
+                            <option value="$MODULE_DIR$/lib/xml-apis-1.0.b2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="mcp-bank" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/announce" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/antlr" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/base-services" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/base-services-groovy" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/build-comparison" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/build-init" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/cli" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/code-quality" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/core" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/cunit" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/dependency-management" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/diagnostics" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/ear" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/ide" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/ide-native" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/internal-integ-testing" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/internal-testing" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/ivy" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/jacoco" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/javascript" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/jetty" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/language-groovy" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/language-java" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/language-jvm" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/language-native" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/launcher" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/maven" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/messaging" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/model-core" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/model-groovy" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/native" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/open-api" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/osgi" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/platform-base" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/platform-jvm" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/platform-native" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/plugin-development" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/plugin-use" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/plugins" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/publish" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/reporting" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/resources" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/resources-http" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/scala" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/signing" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/sonar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/tooling-api" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/ui" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/src/wrapper" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/ant-1.9.3.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/ant-launcher-1.9.3.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-base-services-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-base-services-groovy-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-cli-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-core-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-docs-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-messaging-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-model-core-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-model-groovy-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-native-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-open-api-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-resources-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-tooling-api-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-ui-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/gradle-wrapper-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/groovy-all-2.3.6.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-announce-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-antlr-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-build-comparison-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-build-init-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-code-quality-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-cunit-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-dependency-management-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-diagnostics-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-ear-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-ide-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-ide-native-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-ivy-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-jacoco-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-javascript-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-jetty-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-language-groovy-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-language-java-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-language-jvm-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-language-native-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-maven-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-osgi-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-platform-base-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-platform-jvm-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-platform-native-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-plugin-development-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-plugin-use-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-plugins-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-publish-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-reporting-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-resources-http-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-scala-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-signing-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/gradle-sonar-2.2.1.jar" />
+                  <option value="D:/Program Files (x86)/gradle-2.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/LotteryService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/cmbc/js/contect.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/HttpClientWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mcp/sv/util/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmbc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmbc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mcp-bank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sv" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cmbc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mcp.sv.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mcp.sv.util.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mcp-bank" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/Union.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630c3b79-bb88-4968-a955-816282ac5a55" name="Default" comment="" />
+      <created>1432124068647</created>
+      <option name="number" value="Default" />
+      <updated>1432124068647</updated>
+      <workItem from="1432124069748" duration="1660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.54113925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/LotteryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="49" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/cmbc/js/contect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="526" column="41" selection-start-line="526" selection-start-column="41" selection-end-line="526" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mcp/sv/cmbc/HttpClientWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5862069">
+          <caret line="203" column="52" selection-start-line="203" selection-start-column="52" selection-end-line="203" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
