@@ -2,14 +2,11 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>银行支付</title>
+    <title>账户充值</title>
     <meta http-equiv="cache-control" content="no-cache">
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
-    <link rel="stylesheet" type="text/css" href="css/jq.ui.css?1290022">
     <script charset="utf-8" src="js/jq.mobi.min.js"></script>
-    <script charset="utf-8" src="js/lottery.js"></script>
-    <script charset="utf-8" src="js/iphone.js"></script>
     <meta name="viewport"
           content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width">
     <link type="text/css" rel="stylesheet" href="css/reset.css"/>
@@ -18,7 +15,12 @@
     <script type="text/javascript" src="js/common.js"></script>
     <script>
         $(function () {
-            $("#ljchongzhi2").bind("click", function (event, ui) {
+            $("#ljchongzhi2").bind("click", function () {
+                var login = sessionStorage.getItem("login");
+                if(!login){
+                    window.location.href="login.html";
+                    return;
+                }
                 var money = $("#money").val();
                 if (money == "") {
                     alert("请输入要充值的金额！");
@@ -38,29 +40,20 @@
                     return false;
                 }
                 before();
-                var Id = sessionStorage.getItem("Id");
-                if (Id == null || Id == "null"|| Id == "") {//尚未登陆，需要处理登陆.
-                    setWebitEvent(window.location.href, 'LT02');
-                }
                 $.ajax({
                     type: "POST",
-                    url: "/bankServices/LotteryService/cmbc/pay?timestamp=" + new Date().getTime(),
+                    url: "/bankServices/LotteryService/recharge?timestamp=" + new Date().getTime(),
                     cache: false,
                     data: {
-                        userId: sessionStorage.getItem("Name"),
+                        userName: sessionStorage.getItem("name"),
                         money: money
                     },
-                    success: function (b) {
+                    success: function (result) {
                         after();
-                        var resultCode = $(b).find("ResultCode").text();
-                        if (resultCode == 0) {
-                            var envolopData = $(b).find("EnvolopData").text();
-//                            window.alert(envolopData);
-                            setWebitEvent(envolopData, "LT03");
-                        }
-                        else {
-                            var errorMsg = $(b).find("ErrorMsg").text();
-                            window.alert(errorMsg);
+                        if (!result.description) {
+                            alert("充值成功");
+                        } else {
+                            alert(result.description);
                         }
                     },
                     error: onError

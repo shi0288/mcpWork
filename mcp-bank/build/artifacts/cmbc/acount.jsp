@@ -14,20 +14,15 @@
 <link type="text/css" rel="stylesheet" href="css/common.css"/>
 <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="js/common.js"></script>
-<script type="text/javascript" src="js/iphone.js"></script>
-<script type="text/javascript" src="/cmbc/js/platform.js"></script>
-<jsp:include page="include/login.jsp" flush="true"/>
 <script type="text/javascript">
 $(document).ready(function () {
-    /*登录  */
-    var Id = sessionStorage.getItem("Id");
-    var clientUserId = <%=request.getParameter("userId")%>;
-    if (Id == null && clientUserId == null) {//尚未登陆，需要处理登陆.
-        history.back();
-        setWebitEvent("http://bank.mobilelottery.cn/cmbc", 'LT02');
-
+    /*判断登陆  */
+    var login = sessionStorage.getItem("login");
+    if(!login){
+        window.location.href="login.html";
+        return;
     }
-    /*登录 end */
+    /*判断登陆  end */
     getUseData();
     var body2 = {'startIndex': 0,
         'size': 10}
@@ -36,7 +31,6 @@ $(document).ready(function () {
         $('.tab-content').eq(1).find(".zhanghu-nodata").remove();
         $('.tab-content').eq(1).find(".page").eq(0).attr("data-page", 0);
         getCaipiao('S02', $('.tab-content').eq(1), body2, 10, 2);
-
     });
 });
 function getUseData() {
@@ -383,7 +377,7 @@ function startSing(name, password) {
         </div>
         <center>
             <div class=" pb10 pl5 pr5 mt5 clearfix">
-                <a href="getmoney.html" class="center-org ">提款</a><a href="ylzhifu.jsp" class="center-org ">充值</a>
+                <a href="getmoney.html" class="center-org ">提款</a><a href="ylzhifu.html" class="center-org ">充值</a>
                 <a href="xb_search.jsp" class="center-org ">去挖宝</a>
             </div>
         </center>

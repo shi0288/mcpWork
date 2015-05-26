@@ -456,15 +456,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
-      <library name="Gradle: Union">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/Union.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
       <library name="Gradle: xml-apis-1.0.b2">
         <CLASSES>
           <root url="jar://$MODULE_DIR$/lib/xml-apis-1.0.b2.jar!/" />

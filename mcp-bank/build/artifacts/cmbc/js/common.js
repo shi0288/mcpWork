@@ -489,7 +489,7 @@ function reMls(){
     $(".content").show();
 }
 function onError(){
-    //alert("请求失败");
+    alert("请求失败");
 }
 //制保留2位小数，如：2，会在2后面补上00.即2.00
 function toDecimalMoney(x) {

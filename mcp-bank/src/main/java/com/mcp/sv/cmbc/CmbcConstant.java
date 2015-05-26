@@ -22,9 +22,14 @@ public class CmbcConstant {
     public static final String MCP_KEY = "135790";
     public static final String MCP_INTERFACE_URL = "http://218.30.107.19:9088/mcp-filter/main/interface.htm";
 
+
     //命令
     public static final String MCP_CQ01="CQ01";  //查询
 
+
+    //执行状态
+    public static final String ERROR="9999";
+    public static final String SUCCESS="0000";
 
 
 }

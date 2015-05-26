@@ -5,11 +5,14 @@ package com.mcp.sv.util;
  */
 public class MongoConst {
 
-    public static final String  MONGO_HOST="192.168.222.234";
+    public static final String  MONGO_HOST="127.0.0.1";
     public static final int  MONGO_PORT=27017;
-    public static final String MONGO_NAME="cmbc_present";
-    public static final String MONGO_ORDER_NAME="cmbc_orderpay";
+    public static final String MONGO_NAME="cp_o2o";
     public static final int  MONGO_POOLSIZE=50;
     public static final int  MONGO_BLOCKSIZE=10;
+
+    public static final String MONGO_USERS="users";
+    public static final String MONGO_RECHARGE="recharge";
+
 
 }

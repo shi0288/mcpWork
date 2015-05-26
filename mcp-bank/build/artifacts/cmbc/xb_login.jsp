@@ -46,7 +46,7 @@
    
 <div class="BtnBox">
 <ul>
-<li class="top-up"><a href="ylzhifu.jsp" >去充值</a></li>
+<li class="top-up"><a href="ylzhifu.html" >去充值</a></li>
 <li class="Treasure"><a href="xb_search.jsp"  >去挖宝</a></li>
 </ul>
 </div>

@@ -42,10 +42,10 @@ public class LotteryService {
     public String commonTrans(@Context HttpServletRequest userRequest, @Context HttpServletResponse httpResponse, @FormParam("cmd") String cmd, @FormParam("body") String body, @FormParam("payType") String payType, @FormParam("Name") String name, @FormParam("Id") String id, @FormParam("St") String st) {
         String resMessage = "";
         //取期次
-        if(cmd != null && body != null){
+        if (cmd != null && body != null) {
             try {
                 resMessage = HttpClientWrapper.post(userRequest, httpResponse, cmd, body, st, id);
-                logger.info("收到的：  "+resMessage);
+                logger.info("收到的：  " + resMessage);
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -53,7 +53,10 @@ public class LotteryService {
         return resMessage;//不是投注的请求。其它的请求。
     }
 
-
+    /**
+     * 获取期次信息
+     *
+     */
     @POST
     @Produces({"application/json"})
     @Path("getTerms")
@@ -61,9 +64,9 @@ public class LotteryService {
         String resMessage = "";
         //取期次
         System.out.println(body);
-        if(body != null){
+        if (body != null) {
             try {
-                resMessage = HttpClientWrapper.mcpPost(CmbcConstant.MCP_CQ01,body);
+                resMessage = HttpClientWrapper.mcpPost(CmbcConstant.MCP_CQ01, body);
                 System.out.println("收到的：  " + resMessage);
             } catch (Exception e) {
                 e.printStackTrace();
@@ -72,73 +75,57 @@ public class LotteryService {
         return resMessage;
     }
 
+    /**
+     * 用户注册
+     *
+     */
+    @POST
+    @Produces({"application/json"})
+    @Path("register")
+    public String register(@FormParam("userName") String username, @FormParam("passWord") String passWord, @FormParam("rePassWord") String rePassWord) {
+        String description=LotteryDao.register(username,passWord,rePassWord);
+        return toResult(description);
+    }
 
-//    //新用户赠彩币活动
-//    @POST
-//    @Produces({"application/json"})
-//    @Path("userTrans")
-//    public String userTrans(@Context HttpServletRequest userRequest, @Context HttpServletResponse httpResponse,@FormParam("name") String name,@FormParam("st") String st, @FormParam("userId") String userId) {
-//        //todo  先查缓存  如没有则放入缓存并继续运行
-//        DB db= MongoManager.getDB(MongoConst.MONGO_NAME);
-//        DBCollection users = db.getCollection("newUsers");
-//        DBCursor cur = users.find(new BasicDBObject("name", name));
-//        logger.info("用户："+name+"   "+st+"    "+userId);
-//        if(cur.length()==0){
-//            DBObject user = new BasicDBObject();
-//            user.put("name", name);
-//            user.put("present", false);
-//            users.save(user);
-//        }else{
-//            return "false";
-//        }
-//        try {
-//            JSONObject body = new JSONObject();
-//            String resMessage = HttpClientWrapper.post(userRequest, httpResponse, "A02", body.toString(), st, userId);
-//            JSONObject res = new JSONObject(resMessage);
-//            String resCode = (String) res.get("repCode");
-//            if (!resCode.equals("0000")) {
-//                return "false";
-//            } else {
-//                JSONArray accounts = res.getJSONArray("accounts");
-//                JSONObject account = (JSONObject) accounts.get(0);
-//                String recharge = account.get("recharge").toString();
-//                int tempRecharge=Integer.parseInt(recharge);
-//                if(tempRecharge==0){
-//                    boolean finalRes=getTZJL(userRequest, httpResponse, st, userId);
-//                    if(finalRes){
-//                        String cmd = "C02";
-//                        String addBody = "{" +
-//                                "\"amount\":" + (int) Math.round(Double.parseDouble("3.00")) * 100 + "," +
-//                                "\"name\":\"" + name + "\"," +
-//                                "\"fromType\":7" + "," +
-//                                "\"orderId\":\"" + UUID.randomUUID().toString().replace("-", "") + "\"" +
-//                                "}";
-//                        resMessage = HttpClientWrapper.post(userRequest, httpResponse, cmd, addBody, CmbcConstant.CMBC_KEY, "");
-//                        JSONObject obj = new JSONObject(resMessage);
-//                        if ("0000".equals(obj.getString("repCode"))) { //TODO 判断充值成功还是失败。
-//                            DBObject strUser = new BasicDBObject();
-//                            strUser.put("name", name);
-//                            strUser.put("present", true);
-//                            users.update(new BasicDBObject("name", name), strUser);
-//                            return "true";
-//                        }else {
-//                            return "false";
-//                        }
-//                    }else{
-//                        return "false";
-//                    }
-//                }else {
-//                    return "false";
-//                }
-//            }
-//        }catch (Exception e){
-//            logger.info(name+"赠送彩币失败");
-//        }
-//        return "false";
-//        //return resMessage;//不是投注的请求。其它的请求。
-//    }
+    /**
+     * 用户登陆
+     *
+     */
+    @POST
+    @Produces({"application/json"})
+    @Path("login")
+    public String login(@FormParam("userName") String username, @FormParam("passWord") String passWord) {
+        String description = LotteryDao.login(username, passWord);
+        return toResult(description);
+    }
 
-    public static boolean getTZJL(HttpServletRequest userRequest, HttpServletResponse httpResponse,String st, String userId)
+    /**
+     * 用户充值
+     *
+     */
+    @POST
+    @Produces({"application/json"})
+    @Path("recharge")
+    public String recharge(@FormParam("userName") String username, @FormParam("money") String money) {
+        int recharge=Integer.parseInt(money);
+        String description = LotteryDao.recharge(username,recharge);
+        return toResult(description);
+    }
+
+
+
+    public String toResult(String description){
+        JSONObject resMessage=new JSONObject();
+        try {
+            resMessage.put("description",description);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return resMessage.toString();
+    }
+
+
+    public static boolean getTZJL(HttpServletRequest userRequest, HttpServletResponse httpResponse, String st, String userId)
             throws Exception {
         JSONObject body = new JSONObject();
         body.put("exOrderStatus", "1001,1000,1600"); // 要排除在外的状态代码列表 N
@@ -156,7 +143,7 @@ public class LotteryService {
         int i = pageInfo.getInt("totalPages");
         if (i == 0) {
             return true;
-        }else{
+        } else {
             return false;
         }
     }
@@ -175,8 +162,7 @@ public class LotteryService {
                     "    \"phone\":\"" + userId + "\"" +
                     "}";
             resMessage = HttpClientWrapper.post(userRequest, httpResponse, cmd, reqBody, "", "");
-        } catch (Exception e)
-        {
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
@@ -240,13 +226,13 @@ public class LotteryService {
             String langMAC = "lottery";
             String preSignMsg = billNo + "|" + txAmt + ".00|" + PayerCurr + "|" + txDate + "|" + txTime + "|" + corpID + "|" + corpName + "|" + Billremark1 + "|" + Billremark2 + "|" + CorpRetType + "|" + retUrl + "|" + langMAC;
             System.out.println(preSignMsg);
-			//处理未收到民生回执的情况
-            String data = userId+","+orderId+","+CmbcConstant.CMBC_CORP_ID+"|"+billNo+","+payDesc;
+            //处理未收到民生回执的情况
+            String data = userId + "," + orderId + "," + CmbcConstant.CMBC_CORP_ID + "|" + billNo + "," + payDesc;
             //放入缓存
             String key = "payNo" + UUID.randomUUID().toString().replace("-", "");
             redisCilent.put(key, data, JedisConst.ORDER_SECOND);
-            System.out.println("放入缓存成功key："+key +"data:"+redisCilent.get(key));
-           // HttpClientWrapper.cmbcPost(CmbcConstant.CMBC_ORDER_DEAL,"data",data);
+            System.out.println("放入缓存成功key：" + key + "data:" + redisCilent.get(key));
+            // HttpClientWrapper.cmbcPost(CmbcConstant.CMBC_ORDER_DEAL,"data",data);
 //            com.yitong.commons.ecshop.security.JnkyServer my = new com.yitong.commons.ecshop.security.JnkyServer(LotteryService.class.getResource(CmbcConstant.CMBC_CER_URL).getPath(), LotteryService.class.getResource(CmbcConstant.CMBC_PFX_URL).getPath(), CmbcConstant.CMBC_PAY_KEY);
 //            envolopData = my.EnvelopData(preSignMsg);
         } catch (Exception e) {
@@ -386,7 +372,7 @@ public class LotteryService {
 //        System.out.println( bodyObj.getJSONObject("order").get("platform"));
 
 
-      //
+        //
 //        String key = "payNo" + UUID.randomUUID().toString().replace("-", "");
 //        redisCilent.put(key, "123", 900);
 
